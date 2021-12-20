@@ -1,4 +1,4 @@
-import jQuery from "./core.js";
+import VJQuery from "./core.js";
 
 import "./selector.js";
 import "./traversing.js";
@@ -34,4 +34,4 @@ import "./deprecated.js";
 import "./exports/amd.js";
 import "./exports/global.js";
 
-export default jQuery;
+export default VJQuery;
